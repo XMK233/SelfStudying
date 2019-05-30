@@ -1,0 +1,1 @@
+你可以使用colab来做GPU加速。用本地notebook写好代码，拷贝到colab上去跑。
